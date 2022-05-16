@@ -4,4 +4,4 @@ this is a reactJS Demo
 
 ### GIF Demo:-
 
-![screen-gif](documentaion/angularDemo.gif)
+![screen-gif](documentation/Slider.gif)
