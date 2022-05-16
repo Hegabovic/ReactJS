@@ -3,4 +3,4 @@
 
 ### GIF Demo:-
 
-![slider-gif](documentation/Slider.gif)
+![slider-gif](image-slider/documentation/Slider.gif)
