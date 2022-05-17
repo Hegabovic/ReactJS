@@ -3,4 +3,4 @@
 
 ### GIF Demo:-
 
-![slider-gif](documentation/Slider.gif)
+![slider-gif](documentation/Slider.gif)git pusg
